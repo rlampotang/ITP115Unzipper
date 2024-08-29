@@ -17,5 +17,6 @@ STEPS to use the program:
 The cleaned-up files should be in the folder that you gave the file path for
 Assignments 
 - will have the folder and Python file for each student if the student did so
+
 Labs
 - will have a series of 1 .py file per student
